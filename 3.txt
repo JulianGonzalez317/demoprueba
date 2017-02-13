@@ -3,8 +3,8 @@ Tercer txt modificado
 Documento
 
 3
-
-txt b·sico 3
+Hola
+txt b√°sico 3
 
 txt prueba
 3 DEMO DEMO DEMO
